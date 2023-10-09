@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test render ExpenseListItem with fixture data 1`] = `
+<div>
+  <NavLink
+    activeClassName="active"
+    ariaCurrent="true"
+    to="/edit/1"
+  >
+    <h3>
+      dsc
+    </h3>
+  </NavLink>
+  <p>
+    1
+     - 
+    0
+  </p>
+</div>
+`;
